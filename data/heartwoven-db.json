@@ -1,0 +1,386 @@
+{
+  "books": [],
+  "collections": [
+    {
+      "id": "col-faith",
+      "name": "Faith & Spiritual Growth",
+      "slug": "faith-spiritual-growth",
+      "description": "Sacred anchors, scriptural contemplation, and profound spiritual grounding for the modern soul walking through uncertainty.",
+      "coverImage": "/src/assets/images/book_cover_faith_purpose_1794015185102.jpg",
+      "visualTheme": {
+        "accentColor": "#d4af37",
+        "accentBorder": "border-amber-500/40",
+        "badgeStyle": "text-amber-300 bg-amber-950/40 border border-amber-500/30",
+        "frameShape": "arch",
+        "bgGradient": "from-[#2a1348] via-[#1b0c30] to-[#0f071c]",
+        "ornament": "Crown"
+      },
+      "order": 1,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-healing",
+      "name": "Healing & Mental Wellness",
+      "slug": "healing-mental-wellness",
+      "description": "Evidence-informed reflections and gentle companionship to navigate trauma, grief, quiet anxieties, and internal renewal.",
+      "coverImage": "/src/assets/images/book_cover_healing_depth_1794015185486.jpg",
+      "visualTheme": {
+        "accentColor": "#c084fc",
+        "accentBorder": "border-purple-400/40",
+        "badgeStyle": "text-purple-300 bg-purple-950/40 border border-purple-500/30",
+        "frameShape": "faceted",
+        "bgGradient": "from-[#341147] via-[#200b32] to-[#11051b]",
+        "ornament": "Sparkles"
+      },
+      "order": 2,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-emotional",
+      "name": "Emotional Well-being",
+      "slug": "emotional-well-being",
+      "description": "Deepening emotional self-awareness, untangling unvoiced burdens, and cultivating interior stillness and authentic calm.",
+      "coverImage": "/src/assets/images/hero_bookstore_publishing_1794015183432.jpg",
+      "visualTheme": {
+        "accentColor": "#f472b6",
+        "accentBorder": "border-pink-500/40",
+        "badgeStyle": "text-pink-300 bg-pink-950/40 border border-pink-500/30",
+        "frameShape": "halo",
+        "bgGradient": "from-[#3a113a] via-[#230b28] to-[#120516]",
+        "ornament": "Heart"
+      },
+      "order": 3,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-growth",
+      "name": "Personal Growth & Life Lessons",
+      "slug": "personal-growth-life-lessons",
+      "description": "Disciplined mastery, reflective self-examination, and enduring principles to lead a life of deliberate purpose and character.",
+      "coverImage": "/src/assets/images/book_cover_faith_purpose_1794015185102.jpg",
+      "visualTheme": {
+        "accentColor": "#fbbf24",
+        "accentBorder": "border-yellow-500/40",
+        "badgeStyle": "text-yellow-300 bg-yellow-950/40 border border-yellow-500/30",
+        "frameShape": "filigree",
+        "bgGradient": "from-[#381a42] via-[#241031] to-[#110619]",
+        "ornament": "Compass"
+      },
+      "order": 4,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-relationships",
+      "name": "Relationship & Understanding Others",
+      "slug": "relationship-understanding-others",
+      "description": "The subtle art of human empathy, honest communication, grace under tension, and building bridges across human hearts.",
+      "coverImage": "/src/assets/images/hero_bookstore_publishing_1794015183432.jpg",
+      "visualTheme": {
+        "accentColor": "#38bdf8",
+        "accentBorder": "border-sky-500/40",
+        "badgeStyle": "text-sky-300 bg-sky-950/40 border border-sky-500/30",
+        "frameShape": "seal",
+        "bgGradient": "from-[#19234e] via-[#141638] to-[#0c0d23]",
+        "ornament": "Users"
+      },
+      "order": 5,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-fear",
+      "name": "Beyond Fear & Understanding What Is Fear",
+      "slug": "beyond-fear-understanding-what-is-fear",
+      "description": "Transcending paralysis, stepping boldly into the unfamiliar, and meeting life’s fiercest gales with rooted conviction.",
+      "coverImage": "/src/assets/images/book_cover_healing_depth_1794015185486.jpg",
+      "visualTheme": {
+        "accentColor": "#f87171",
+        "accentBorder": "border-rose-500/40",
+        "badgeStyle": "text-rose-300 bg-rose-950/40 border border-rose-500/30",
+        "frameShape": "crest",
+        "bgGradient": "from-[#421422] via-[#290d18] to-[#16060c]",
+        "ornament": "Shield"
+      },
+      "order": 6,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-workbooks",
+      "name": "Journals & Workbooks",
+      "slug": "journals-workbooks",
+      "description": "Structured daily inquiries, contemplation prompts, habit trackers, and sacred write-in pages for intentional transformation.",
+      "coverImage": "/src/assets/images/book_cover_faith_purpose_1794015185102.jpg",
+      "visualTheme": {
+        "accentColor": "#a78bfa",
+        "accentBorder": "border-violet-500/40",
+        "badgeStyle": "text-violet-300 bg-violet-950/40 border border-violet-500/30",
+        "frameShape": "quill",
+        "bgGradient": "from-[#2e134b] via-[#1d0c32] to-[#10061d]",
+        "ornament": "BookOpen"
+      },
+      "order": 7,
+      "showOnHomepage": true
+    },
+    {
+      "id": "col-love-depth",
+      "name": "Love & Depth",
+      "slug": "love-depth",
+      "description": "Unfiltered meditations on profound sacrifice, enduring devotion, vulnerable tenderness, and the boundless architecture of love.",
+      "coverImage": "/src/assets/images/book_cover_healing_depth_1794015185486.jpg",
+      "visualTheme": {
+        "accentColor": "#e879f9",
+        "accentBorder": "border-fuchsia-500/40",
+        "badgeStyle": "text-fuchsia-300 bg-fuchsia-950/40 border border-fuchsia-500/30",
+        "frameShape": "embossed",
+        "bgGradient": "from-[#3e0f41] via-[#28092d] to-[#140417]",
+        "ornament": "Flame"
+      },
+      "order": 8,
+      "showOnHomepage": true
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q-1",
+      "text": "When faith takes root in the quiet unseen places of the heart, no gale of circumstance can uproot your purpose.",
+      "theme": "faith"
+    },
+    {
+      "id": "q-2",
+      "text": "Healing does not mean the fracture never occurred; it means the scar has become a vessel of compassion for others.",
+      "theme": "healing"
+    },
+    {
+      "id": "q-3",
+      "text": "Wisdom is not knowing every answer; it is having the courage to sit in reverence before truth you cannot yet explain.",
+      "theme": "wisdom"
+    },
+    {
+      "id": "q-4",
+      "text": "Hope is the anchor cast into tomorrow that steadies the ship in the tempest of today.",
+      "theme": "hope"
+    },
+    {
+      "id": "q-5",
+      "text": "Courage is rarely loud. Most often, courage is the quiet voice at evening whispers: I will begin again with the dawn.",
+      "theme": "courage"
+    },
+    {
+      "id": "q-6",
+      "text": "Truth needs no armor other than its own endurance; false things shatter under the gentle weight of time.",
+      "theme": "truth"
+    },
+    {
+      "id": "q-7",
+      "text": "Your purpose is not a trophy to be won, but a garden entrusted to your patient hands.",
+      "theme": "purpose"
+    },
+    {
+      "id": "q-8",
+      "text": "In the stillness where self-importance dissolves, the whisper of genuine understanding begins.",
+      "theme": "wisdom"
+    }
+  ],
+  "author": {
+    "name": "Sky",
+    "tagline": "Author, Philosopher & Founder of Heartwoven Wonders",
+    "photoUrl": "/src/assets/images/author_sky_portrait_1794015184626.jpg",
+    "introduction": "Sky is an author, thinker, and contemplative writer dedicated to creating literature that pierces through distraction and anchors the human spirit in faith, interior healing, and enduring purpose.",
+    "biography": "For more than two decades, Sky has observed the quiet spiritual hunger beneath modern life—the exhaustion of endless noise and the yearning for authentic healing. Heartwoven Wonders was founded not merely as an imprint, but as a worldwide sanctuary where words become living medicine, guiding seekers through emotional renewal and faith-rooted clarity.",
+    "philosophy": "We believe a book should not merely entertain the intellect; it should companion the soul. True publishing is an act of sacred stewardship: delivering truth with unsparing beauty, deep empathy, and uncompromising craftsmanship.",
+    "purposeMessage": "Our purpose is to ensure that wherever you are in the world—whether sitting in solitude during grief or standing at the crossroads of your destiny—you hold in your hands words woven with care, truth, and unshakable light.",
+    "contactEmail": "contact@heartwovenwonders.com",
+    "location": "Worldwide Digital Sanctuary",
+    "publishedBooksCount": 8
+  },
+  "settings": {
+    "announcementText": "Worldwide digital deliveries | Instant PDF & EPUB downloads | Audiobooks available | Secure PayPal payments",
+    "heroHeading": "HEARTWOVEN WONDERS",
+    "heroTagline": "Beyond the Pages, Into the Soul — Where Faith Takes Root, Healing Finds Its Way, and Purpose Comes Alive.",
+    "homepageSections": [
+      {
+        "id": "sec-quote",
+        "name": "Inspirational Quote Sanctuary",
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "sec-collections",
+        "name": "Eight Distinctive Book Collections",
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "sec-featured",
+        "name": "Curated Bookstore & New Releases",
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "sec-about",
+        "name": "About Sky & Publishing Philosophy",
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "sec-audiobook-spotlight",
+        "name": "AI Spoken Audiobook Showcase",
+        "visible": true,
+        "order": 5
+      }
+    ],
+    "collectionsOrder": [
+      "col-faith",
+      "col-healing",
+      "col-emotional",
+      "col-growth",
+      "col-relationships",
+      "col-fear",
+      "col-workbooks",
+      "col-love-depth"
+    ],
+    "paypal": {
+      "clientId": "",
+      "clientSecret": "",
+      "webhookId": "",
+      "environment": "sandbox",
+      "currency": "USD",
+      "isConfigured": false,
+      "trinidadTobagoSupportNotes": "PayPal Business accounts in Trinidad and Tobago receive payments worldwide in USD, EUR, GBP, and CAD. Because TTD is not directly held in PayPal balances, funds received in USD are converted upon bank withdrawal to an eligible local Visa card (via card transfer) or linked US dollar bank account."
+    },
+    "policies": [
+      {
+        "id": "pol-about",
+        "title": "About Heartwoven Wonders Publishing House",
+        "slug": "about-store",
+        "content": "Heartwoven Wonders is an independent worldwide digital publishing house and online bookstore founded by author Sky. We create literature that pierces through distraction and anchors the human spirit in faith, interior healing, and enduring purpose. Our publications encompass adult nonfiction, philosophical contemplation, mental wellness, and spiritual growth.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-delivery",
+        "title": "Digital Delivery & Download Policy",
+        "slug": "digital-delivery",
+        "content": "All books and audiobooks purchased on Heartwoven Wonders are delivered digitally and instantly worldwide. Upon successful PayPal checkout, orders are immediately confirmed and linked to your private My Library account. You may choose between PDF, EPUB, and Audiobook editions where available.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-refunds",
+        "title": "Refund & Satisfaction Guarantee",
+        "slug": "refund-policy",
+        "content": "We stand completely behind the spiritual and literary integrity of our works. Because digital deliverables are provided immediately upon checkout, we offer a 14-day compassionate refund guarantee if you encounter technical difficulty accessing your files or if the work did not match its stated description.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-privacy",
+        "title": "Privacy Policy & Data Protection",
+        "slug": "privacy-policy",
+        "content": "Heartwoven Wonders respects the sanctity of your private information. We never sell, rent, or trade customer emails or purchase records. Customer accounts are used exclusively for digital library access, purchase verification, and optional publishing notices.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-terms",
+        "title": "Terms of Service",
+        "slug": "terms-of-service",
+        "content": "By purchasing from Heartwoven Wonders, you receive a personal, non-transferable license to read, listen, and contemplate our works across your personal devices. Commercial reproduction or unauthorized redistribution of our manuscripts and audiobooks is strictly prohibited.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-faq",
+        "title": "Frequently Asked Questions (FAQ)",
+        "slug": "faq",
+        "content": "Q: How do I read EPUB files?\nA: EPUB is an open standard readable on Apple Books, Kobo, Kindle, and Thorium Reader.\n\nQ: Are the audiobooks generated with real voices?\nA: Yes! Our audiobooks feature authentic spoken narration produced chapter-by-chapter with measured cadence.\n\nQ: Can I pay with PayPal from anywhere?\nA: Yes, PayPal supports worldwide payments in standard international currencies.",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      },
+      {
+        "id": "pol-contact",
+        "title": "Contact & Publisher Support",
+        "slug": "contact",
+        "content": "For reader support, library inquiries, or literary correspondence:\nEmail: contact@heartwovenwonders.com\nSanctuary: Worldwide Digital Publishing House\nFounder: Sky",
+        "lastUpdated": "2026-11-07T01:59:26.262Z"
+      }
+    ],
+    "seo": {
+      "siteTitle": "Heartwoven Wonders | Digital Publishing House & Worldwide Bookstore",
+      "metaDescription": "Digital Publishing House & Worldwide Bookstore — Beyond the Pages, Into the Soul — Where Faith Takes Root, Healing Finds Its Way, and Purpose Comes Alive.",
+      "ogImage": "/src/assets/images/hero_bookstore_publishing_1794015183432.jpg",
+      "keywords": [
+        "digital publishing house",
+        "worldwide bookstore",
+        "faith books",
+        "healing",
+        "spiritual growth",
+        "audiobooks",
+        "author sky",
+        "epub pdf books"
+      ],
+      "authorBrand": "Sky & Heartwoven Wonders"
+    },
+    "visualStyling": {
+      "primaryPurple": "#291248",
+      "goldAccent": "#ffd700",
+      "displayFont": "Cinzel",
+      "bodyFont": "Plus Jakarta Sans",
+      "ornamentStyle": "regal_crest"
+    },
+    "adminPasscode": "heartwoven2026"
+  },
+  "audiobookProjects": [],
+  "customers": [
+    {
+      "id": "cust-demo",
+      "name": "Faithful Reader",
+      "email": "reader@heartwovenwonders.com",
+      "createdAt": "2026-11-07T01:59:26.263Z"
+    },
+    {
+      "id": "cust-1794016787529",
+      "name": "Joy Robinson",
+      "email": "joy.robinson@example.com",
+      "createdAt": "2026-11-07T01:59:47.529Z"
+    }
+  ],
+  "purchases": [
+    {
+      "id": "pur-1794016795374-162",
+      "customerId": "cust-1794016787529",
+      "customerEmail": "joy.robinson@example.com",
+      "customerName": "Joy Robinson",
+      "bookId": "book-1",
+      "bookTitle": "The Unshakable Soul",
+      "bookAuthor": "Sky",
+      "bookCoverUrl": "/src/assets/images/book_cover_faith_purpose_1794015185102.jpg",
+      "formats": [
+        "PDF",
+        "EPUB",
+        "Audiobook"
+      ],
+      "amount": 19.99,
+      "currency": "USD",
+      "paypalOrderId": "HW-PP-ORDER-1794016792928",
+      "paypalCaptureId": "cap-1794016795375",
+      "status": "completed",
+      "createdAt": "2026-11-07T01:59:55.375Z"
+    },
+    {
+      "id": "pur-initial-1",
+      "customerId": "cust-demo",
+      "customerEmail": "reader@heartwovenwonders.com",
+      "customerName": "Faithful Reader",
+      "bookId": "book-1",
+      "bookTitle": "The Unshakable Soul",
+      "bookAuthor": "Sky",
+      "bookCoverUrl": "/src/assets/images/book_cover_faith_purpose_1794015185102.jpg",
+      "formats": [
+        "PDF",
+        "EPUB",
+        "Audiobook"
+      ],
+      "amount": 19.99,
+      "currency": "USD",
+      "paypalOrderId": "INITIAL_VERIFIED_ORDER_01",
+      "status": "completed",
+      "createdAt": "2026-11-07T01:59:26.263Z"
+    }
+  ],
+  "bookDrafts": [],
+  "backups": []
+}

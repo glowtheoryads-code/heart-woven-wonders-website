@@ -1,0 +1,6 @@
+{
+  "name": "Heartwoven Wonders",
+  "description": "Digital Publishing House & Worldwide Bookstore — Beyond the Pages, Into the Soul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

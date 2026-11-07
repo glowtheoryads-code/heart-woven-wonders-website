@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --font-cinzel: 'Cinzel', serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+
+  --color-royal-950: #0a0412;
+  --color-royal-900: #140824;
+  --color-royal-850: #1d0c33;
+  --color-royal-800: #291248;
+  --color-royal-700: #3d1b6b;
+  --color-royal-600: #572697;
+  --color-royal-500: #7433c6;
+  --color-royal-400: #9352e4;
+
+  --color-gold-300: #fae8a4;
+  --color-gold-400: #f3d46d;
+  --color-gold-500: #d4af37;
+  --color-gold-600: #b89124;
+  --color-gold-700: #957317;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #0d0617;
+  color: #f5f0e8;
+  min-height: 100vh;
+}
+
+.font-cinzel {
+  font-family: var(--font-cinzel);
+}
+
+.font-serif-display {
+  font-family: var(--font-serif);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #140824;
+}
+::-webkit-scrollbar-thumb {
+  background: #3d1b6b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #d4af37;
+}
+
+/* Subtle gold foil shimmer */
+.gold-gradient-text {
+  background: linear-gradient(135deg, #fae8a4 0%, #d4af37 50%, #aa8214 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-glow {
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.15);
+}
